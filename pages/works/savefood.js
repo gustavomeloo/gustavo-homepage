@@ -1,6 +1,7 @@
 import {
   Container,
   Badge,
+  Heading,
   Link,
   List,
   ListItem,
@@ -41,6 +42,10 @@ const Work = () => (
           <span>React-Native, FireBase</span>
         </ListItem>
       </List>
+
+      <Heading as="h3" fontSize={16} my={1}>
+        <Center>Developers</Center>
+      </Heading>
 
       <UnorderedList my={4}>
           <Badge mr={2}>Gabriel Meireles</Badge>
