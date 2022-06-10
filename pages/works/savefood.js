@@ -5,6 +5,7 @@ import {
   List,
   ListItem,
   SimpleGrid,
+  UnorderedList
 } from '@chakra-ui/react'
 import Layout from '../../components/layouts/article'
 import { ExternalLinkIcon } from '@chakra-ui/icons'
@@ -40,6 +41,15 @@ const Work = () => (
           <span>React-Native, FireBase</span>
         </ListItem>
       </List>
+
+      <UnorderedList my={4}>
+          <Badge mr={2}>Gabriel Meireles</Badge>
+          <Badge mr={2}>Gustavo dos Santos de Melo</Badge>
+          <Badge mr={2}>Marcus Vinicius Titanero Guelfi</Badge>
+          <Badge mr={2}>Henrique Akira Yasuda</Badge>
+          <Badge mr={2}>Kelly Naomi Mitsuishi</Badge>
+          <Badge mr={2}>Vinicius De Nani Mazinetti</Badge>
+      </UnorderedList>
 
       
 
