@@ -8,6 +8,7 @@ import thumbNubank from '../public/images/works/nubank.png'
 import thumbSaveFood from '../public/images/works/savefood.png'
 import thumbHealthyGarden from '../public/images/works/healthygarden.png'
 import thumbGameplay from '../public/images/works/gameplay.png'
+import thumbLetmeask from '../public/images/works/letmeask.png'
 
 const Works = () => (
   <Layout title="Works">
@@ -64,6 +65,12 @@ const Works = () => (
         <Section delay={0.3}>
           <WorkGridItem id="netflix" title="Netflix" thumbnail={thumbNetflix}>
             Um clone do netflix feito em reactJS usando api de movies.
+          </WorkGridItem>
+        </Section>
+
+        <Section delay={0.3}>
+          <WorkGridItem id="letmeask" title="Letmeask" thumbnail={thumbLetmeask}>
+          Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público.
           </WorkGridItem>
         </Section>
       </SimpleGrid>
