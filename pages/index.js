@@ -75,12 +75,12 @@ const Home = () => (
           Work
         </Heading>
         <Paragraph>
-          Gustavo é um freelance desenvolvedor React/React-Native, com 19 anos, morando em 
-          São Paulo com uma paixão em programação, mas com um amor especial em React.
+          Gustavo é um desenvolvedor React/React-Native que atualmente trabalha na Ax4b Enterprise Solutions, com 21 anos, morando em 
+          São Paulo e com uma paixão em programação, mas com um amor especial em React.
           Ele tem uma dedicação imensa para descobrir/resolver a melhor solução e 
           esforça-se para sempre melhorar. Quando não está online gosta de praticar 
-          exercícios fisicos, alguns esportes como basquete e futebol e também Jogos
-          onlines. Atualmente vivo sempre estudando coisas novas, fazendo cursos e 
+          exercícios fisicos, alguns esportes como Basquete, Futebol, Natação e também Jogos
+          onlines. Atualmente vive sempre estudando coisas novas, fazendo cursos e 
           evoluindo meu inglês :).
         </Paragraph>
         <Box align="center" my={4}>
@@ -105,8 +105,8 @@ const Home = () => (
           Concluído o técnologo em Análise e Desenvolvimento de Sistemas na Faculdade de Informática e Administração Paulista (FIAP)
         </BioSection>
         <BioSection>
-          <BioYear>2021 to present</BioYear>
-          Trabalhando como freelancer
+          <BioYear>2022 to present</BioYear>
+          Trabalhando como desenvolvedor na Ax4b Enterprise Solutions
         </BioSection>
       </Section>
 
