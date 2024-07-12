@@ -97,10 +97,6 @@ const Home = () => (
           Bio
         </Heading>
         <BioSection>
-          <BioYear>2002</BioYear>
-          Nascido em Alagoas, Brasil.
-        </BioSection>
-        <BioSection>
           <BioYear>2021</BioYear>
           Concluído o técnologo em Análise e Desenvolvimento de Sistemas na Faculdade de Informática e Administração Paulista (FIAP)
         </BioSection>
