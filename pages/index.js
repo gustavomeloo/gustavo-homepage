@@ -41,7 +41,7 @@ const Home = () => (
           <Heading as="h2" variant="page-title">
             Gustavo Melo
           </Heading>
-          <p>Desenvolvedor ( React / React-Native )</p>
+          <p>Desenvolvedor ( React / React-Native / Node / C# )</p>
         </Box>
         <Box
           flexShrink={0}
@@ -60,7 +60,7 @@ const Home = () => (
             overflow="hidden"
           >
             <ProfileImage
-              src="/images/Gustavo.jfif"
+              src="/images/Gustavo-Melo.jpeg"
               alt="Profile image"
               borderRadius="full"
               width="100%"
@@ -75,8 +75,8 @@ const Home = () => (
           Work
         </Heading>
         <Paragraph>
-          Gustavo é um desenvolvedor React/React-Native que atualmente trabalha na Ax4b Enterprise Solutions, com 21 anos, morando em 
-          São Paulo e com uma paixão em programação, mas com um amor especial em React.
+          Gustavo é um desenvolvedor fullstack React/React-Native/Node/C# que atualmente trabalha na Ax4b Enterprise Solutions, com 22 anos, morando em 
+          São Paulo e com uma paixão em programação, mas com um amor especial em React/Node.
           Ele tem uma dedicação imensa para descobrir/resolver a melhor solução e 
           esforça-se para sempre melhorar. Quando não está online gosta de praticar 
           exercícios fisicos, alguns esportes como Basquete, Futebol, Natação e também Jogos
